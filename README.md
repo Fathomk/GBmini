@@ -9,3 +9,4 @@ Usb-C power supply: amazon.com/s?k=DDTCCRUB (choose a power supply depending on 
 Buck converter: amazon.com/Weewooday-Regulator-Voltage-Converter-Transformer/dp/B08JZ5FVLC/
 18650 Holder: amazon.com/Battery-Storage-Plastic-Batteries-YOUCHENG/dp/B08LZ3553W/
 you also need a way to connect the screen with the raspbery pi. I used a micro hdmi ribbon cable breakout (these are normally used for drones)
+Note: sorry the 3D files are so jank I modeled them back when I used tinkercad
